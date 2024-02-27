@@ -25,11 +25,11 @@
   
   /** general */
   --font-family: Quicksand;
-  --font-size: 1;
+  --font-size: 1.05;
   --display-image: block;
 
   /** surface */
-  --surface-maxWidth: 1150px;
+  --surface-maxWidth: 1300px;
   --surface-shadow: 2px 2px 4px #777777;
   --surface-borderRadius: 20px;
 
@@ -41,6 +41,6 @@
   --space-largest: 3rem;
 
   /** others */
-  --picture-size: 300px;
+  --picture-size: 350px;
   --group-count: 7;
 }
