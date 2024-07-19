@@ -26,7 +26,7 @@ body {
   height: 100%;
   width: 100%;
   margin: 0;
-  background-image: url("girl.jpg");
+  background-image: url("chainsaaw.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -35,7 +35,7 @@ body {
   min-height: 100%;
   min-width: 600px;
   overflow: hidden;
-  
+
   font-family: var(--font-family), sans-serif;
   font-weight: 500;
   font-size: calc(var(--font-size) * var(--space-medium));
@@ -134,8 +134,8 @@ body {
 }
 
 #searchbar > button > .feather-search {
-  width: 1.2rem;
-  height: 1.2rem;
+  width: 1.6rem;
+  height: 1.6rem;
 }
 
 #searchbar > button:hover {
@@ -180,7 +180,7 @@ body {
 .bookmark-group > h2 {
   color: var(--color-secondary-fg);
   font-size: calc(var(--font-size) * var(--space-medium));
-  font-weight: 500;
+  font-weight: 600;
   margin: 0;
 }
 
@@ -211,4 +211,3 @@ body {
   position: absolute;
   left: -0.75rem;
 }
-
