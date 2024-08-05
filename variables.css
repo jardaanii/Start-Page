@@ -11,10 +11,10 @@
   --color-fg-highlight: #ffffff;
   --color-primary-bg: #777777;
   --color-primary-base: #eeeeee;
-  --color-primary-fg: #ccd820;
+  --color-primary-fg: #358fb9;
   --color-secondary-bg: #252528;
   --color-secondary-base: #494950;
-  --color-secondary-fg: #99a130;
+  --color-secondary-fg: #3b7fcc;
   --color-palette-red: #e06c75;
   --color-palette-green: #98c379;
   --color-palette-yellow: #e5c07b;
@@ -29,8 +29,8 @@
   --display-image: block;
 
   /** surface */
-  --surface-maxWidth: 1350px;
-  --surface-shadow: 1px 1px 1px #5d5d5f;
+  --surface-maxWidth: 1230px;
+  --surface-shadow: 1px 1px 1px #373738;
   --surface-borderRadius: 25px;
 
   /** spacing */
@@ -41,6 +41,6 @@
   --space-largest: 3rem;
 
   /** others */
-  --picture-size: 320px;
+  --picture-size: 300px;
   --group-count: 7;
 }
